@@ -1,0 +1,81 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "ErpContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ErpAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Bancos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ClienteXEmpresa]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Contas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Empresas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Funcionarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FuncionarioXProjeto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Moedas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pais]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Projetos]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "(localdb)\\UNI1500.Erp",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
